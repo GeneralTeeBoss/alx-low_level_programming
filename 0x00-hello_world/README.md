@@ -1,1 +1,1 @@
- Simply a wrapper script to keep you from having
+script that compiles a C file but does not link
